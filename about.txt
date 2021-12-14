@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<nav class="navbar navbar-expand-sm bg-light">
+  <ul class="navbar-nav">
+    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+    <li class="nav-item"><a class="nav-link" href="glitch.html">Glitch Art</a></li>
+    <li class="nav-item"><a class="nav-link" href="meme.html">Meme Mashup</a></li>
+    <li class="nav-item"><a class="nav-link" href="zbrush.html">ZBrush Models</a></li>
+    <li class="nav-item"><a class="nav-link" href="blender.html">Blender Environment</a></li>
+    <li class="nav-item"><a class="nav-link" href="netart.html">Net-Art</a></li>
+    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+  </ul>
+</nav>
+<body>
+
+<div class="container-fluid">
+<div class="jumbotron">
+
+<h1>About</h1>
+</div>
+
+<p>​My name is Marissa Lew and I am a student at San Jose State University to get a BFA in Photography.</p>
+
+<img src="sf.jpg" class= "img-fluid rounded mx-auto d-block" alt="me">
+
+</body>
+</html>
